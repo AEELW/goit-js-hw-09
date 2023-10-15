@@ -23,3 +23,4 @@ document.addEventListener("DOMContentLoaded", function () {
   startButton.addEventListener("click", startColorChange);
   stopButton.addEventListener("click", stopColorChange);
 });
+=======>>>>>>> main
